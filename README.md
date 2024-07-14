@@ -14,16 +14,6 @@ Welcome to my GitHub profile! I'm Safier, a software engineer passionate about c
     <img src="https://skillicons.dev/icons?i=apple,nodejs,ts,aws,mysql,docker,grafana,terraform,redis,react,postman,jest" />
   </a>
 </p>
-
-
-## 📚 Eperienced Tech Stack:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,prisma,nodejs,js,ts,aws,react,mysql,docker,python,grafana,terraform,redis,git,bash,github,figma,firebase,vim,apple,ubuntu,java,kotlin,spring,androidstudio,postgresql,angular,linux,windows,gitlab,cloudflare,jenkins,jest,mongodb,sentry,yarn,powershell,postman,npm" />
-  </a>
-</p>
-
 </div>
 
 <!--
