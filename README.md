@@ -3,18 +3,23 @@
 
 
 
-Welcome to my GitHub profile! I'm Safier, a software engineer passionate about coding, problem-solving, and continuous learning. I love creating elegant solutions for complex challenges and collaborating with others to build awesome projects.
+Hello! I'm a Software Engineer based in Amsterdam, passionate about creating innovative solutions and writing clean, efficient code. I hold a degree from the University of Amsterdam of Applied Sciences, where I honed my skills and developed a strong foundation in software engineering.
 
-<div align="center">
+Over the years, I have had the privilege of working in three dynamic startups, each providing unique challenges and opportunities for growth. These experiences have equipped me with a versatile skill set and a deep understanding of the startup ecosystem. I thrive in fast-paced environments and enjoy collaborating with cross-functional teams to bring ideas to life.
 
-## 💻 Daily use:
+
+## Daily tech stack 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,nodejs,ts,aws,mysql,docker,grafana,terraform,redis,react,postman,jest" />
   </a>
 </p>
-</div>
+
+## Get in touch 💬
+I love connecting with fellow developers and enthusiasts. Feel free to reach out to me via LinkedIn or email.
+
+Thank you for visiting my GitHub profile!
 
 <!--
 **safier99/safier99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
