@@ -12,7 +12,7 @@ Over the years, I have had the privilege of working in three dynamic startups, e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,nodejs,ts,aws,mysql,docker,grafana,terraform,redis,react,postman,jest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,aws,mysql,docker,grafana,terraform,redis,react,postman,jest" />
   </a>
 </p>
 
