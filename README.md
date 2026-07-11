@@ -6,22 +6,9 @@
   </samp>
 </p>
 
-```console
-safier@ams ~ % whoami
-software engineer — backend · cloud · data · iot
+# Hi, I'm Safier 👋
 
-safier@ams ~ % cat stack.txt
-node.js · typescript · aws · clickhouse · mqtt
-mysql · redis · docker · terraform · grafana · python · react
-
-safier@ams ~ % uptime
-awake since before sunrise · building quietly
-
-safier@ams ~ % ls ~/projects
-ls: permission denied — ask nicely
-
-safier@ams ~ % _
-```
+📍 **Amsterdam** | ⚙️ **Software Engineer · Cloud · Data · IoT**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,8 +22,3 @@ safier@ams ~ % _
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safier99/safier99/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/safier99/safier99/output/github-snake.svg" />
-</picture>
