@@ -1,11 +1,3 @@
-<p align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/safier-al-khafaji">linkedin</a> ·
-    <a href="mailto:safier99@gmail.com">email</a> ·
-    <a href="https://apps.apple.com/app/noorhilal/id6760623962">noorhilal</a>
-  </samp>
-</p>
-
 ## `$ whoami`
 
 Software engineer. Amsterdam. Backend · cloud · data · IoT.
