@@ -6,8 +6,6 @@
   </samp>
 </p>
 
-# Hi, I'm Safier 👋
-
 ## `$ whoami`
 
 Software engineer. Amsterdam. Backend · cloud · data · IoT.
